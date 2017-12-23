@@ -4,7 +4,7 @@
 * OpenCV 2 
 * Example Video File
 
-## Execution
+## Quick Start
 ### Linux
 * Type the Folowing into the Console:
     <b>python orb.py</b>
