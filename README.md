@@ -6,7 +6,8 @@
 
 ## Execution
 ### Linux
-* python orb.py
+* Type the Folowing into the Console
+    python orb.py
 
 ### Windows
 * Load the file into PyCharm
