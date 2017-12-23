@@ -6,7 +6,7 @@
 
 ## Execution
 ### Linux
-* Type the Folowing into the Console
+* Type the Folowing into the Console:
     <b>python orb.py</b>
 
 ### Windows
